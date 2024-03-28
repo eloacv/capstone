@@ -4,4 +4,7 @@ The Diabetes Health Indicators Dataset was used for this work. This dataset is b
 The dataset consists of 70,692 observations and 22 variables, where "diabetes_binary" is the binary target variable.
 The main objective of this work is to construct a machine learning model that can predict the probability of a person developing prediabetes or diabetes. In addition, the model will be productized by creating a web application.
 
-* The report is written in spanish
+* Fast API used: https://github.com/eloacv/FASTAPI
+* Web form code: https://github.com/eloacv/db_prediction
+* Web form page: https://eloacv.github.io/db_prediction/
+* The report is written in spanish.
